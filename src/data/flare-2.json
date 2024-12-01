@@ -157,18 +157,21 @@
   },
   {
    "name": "Americas",
+   "media": "/america.png",
    "timeline": "",
    "historical_context": "",
    "impact": "",
    "children": [
     {
      "name": "Indigenous Resistance",
+     "media": "/Indigenous Resistance_.mp4",
      "timeline": "1492: European colonization begins in the Americas, leading to widespread displacement of Indigenous peoples.\n1830: The Indian Removal Act forces mass relocation of Indigenous tribes in the United States.\n1890: The Wounded Knee Massacre marks the violent suppression of the Ghost Dance movement.",
      "historical_context": "Indigenous Resistance encompasses the efforts of Native American tribes and other Indigenous groups to defend their land, culture, and sovereignty against European and American colonization. These efforts ranged from armed conflicts and uprisings to legal and spiritual resistance. Despite significant losses, Indigenous communities persisted in their fight for survival, often against overwhelming odds.\n\n",
      "impact": "Cultural Survival: While many traditions and languages were lost, Indigenous cultures adapted and survived, preserving vital aspects of their heritage.\nLoss of Land and Lives: Forced relocations, massacres, and broken treaties led to significant population and land loss.\nOngoing Struggles: Indigenous peoples continue to fight for their rights, sovereignty, and recognition of historical injustices.\nLegacy of Resistance: These events remain symbolic of the resilience and strength of Indigenous communities.",
      "children": [
       {
        "name": "Trail of Tears",
+       "media": "/trail of tears.png",
        "timeline": "1830: President Andrew Jackson signs the Indian Removal Act, enabling the forced relocation of Indigenous tribes.\n1838–1839: The Cherokee Nation is forcibly removed from their lands in the southeastern United States to present-day Oklahoma.",
        "historical_context": "The Trail of Tears refers to the forced relocation of approximately 60,000 Native Americans, including the Cherokee, Creek, Seminole, Chickasaw, and Choctaw tribes, under the Indian Removal Act. This relocation was part of a broader policy to clear Indigenous lands for American settlers. The journey was marked by inadequate supplies, harsh weather, and military enforcement, leading to significant suffering and loss of life.",
        "impact": "Loss of Life: Thousands died due to exposure, disease, and starvation during the journey.\nDisplacement: Indigenous peoples lost their ancestral homelands, communities, and cultural ties to the land.\nLegal Legacy: The forced removal highlighted the failure of the U.S. government to honor treaties, fueling long-term distrust between Indigenous nations and the federal government.",
@@ -176,6 +179,7 @@
       },
       {
        "name": "Wounded Knee Massacre",
+       "media": "/Wounded Knee Massacre.png",
        "timeline": "1890: U.S. Army troops surround a Lakota Sioux camp at Wounded Knee Creek in South Dakota.\nDecember 29, 1890: Approximately 300 Lakota men, women, and children are killed during the massacre.",
        "historical_context": "The Wounded Knee Massacre occurred as tensions rose between the U.S. government and the Lakota Sioux over the Ghost Dance movement, a spiritual revival calling for a return of Indigenous lands and way of life. Fearing an uprising, U.S. soldiers attempted to disarm the Lakota, resulting in a violent confrontation. The massacre symbolized the culmination of U.S. efforts to suppress Indigenous resistance and culture.",
        "impact": "End of Armed Resistance: The massacre marked the end of large-scale armed resistance by Indigenous tribes in the United States.\nCultural Suppression: The Ghost Dance movement was effectively quashed, and Indigenous practices faced further restrictions.\nSymbol of Injustice: Wounded Knee remains a powerful symbol of the suffering and resilience of Indigenous peoples.\nModern Activism: The site later became a focal point for the American Indian Movement (AIM) in the 1970s, highlighting ongoing struggles for Indigenous rights.\n",
@@ -185,12 +189,14 @@
     },
     {
      "name": "Transatlantic Slave Trade",
+     "media": "/Transatlantic Slave Trade.png",
      "timeline": "1440s: Portuguese sailors begin transporting enslaved Africans to Europe.\n17th–19th centuries: The transatlantic slave trade reaches its peak, with millions of Africans forcibly taken to the Americas.\n1807: Britain passes the Abolition of the Slave Trade Act, followed by other nations over the 19th century.",
      "historical_context": "The transatlantic slave trade was a brutal system of human trafficking that forcibly transported millions of Africans to the Americas to work on plantations, mines, and in households. It was driven by European demand for labor to support sugar, cotton, and tobacco industries. The trade devastated African communities, dehumanized individuals, and was a foundational system of economic exploitation in the Atlantic world.",
      "impact": "Human suffering, development of racial hierarchies, and socio-economic impacts on both Africa and the Americas.",
      "children": [
       {
        "name": "Middle Passage",
+       "media": "/Middle Passage.png",
        "timeline": "1500s–1800s: The Middle Passage operates as a key stage of the transatlantic slave trade.\n1700s: At its height, approximately 12 million Africans are transported across the Atlantic, with up to 20% perishing during the journey.",
        "historical_context": "The Middle Passage refers to the horrific journey endured by enslaved Africans as they were transported across the Atlantic Ocean to the Americas. Packed into overcrowded, unsanitary ships, enslaved individuals faced extreme conditions, including starvation, disease, and abuse. Many resisted through uprisings or chose suicide over enslavement.",
        "impact": "Human Suffering: Millions died during the Middle Passage due to inhumane treatment, with survivors enduring lifelong trauma.\nCultural Loss: Entire generations were forcibly removed from African societies, disrupting cultural and familial structures.\nEconomic Drivers: The profits from the Middle Passage fueled industries in Europe and the Americas, perpetuating the trade for centuries.\nMemory and Legacy: The Middle Passage is a symbol of the immense human cost of slavery and continues to influence discussions about historical injustice and reparations.",
@@ -198,6 +204,7 @@
       },
       {
        "name": "Abolition Movements",
+       "media": "/Abolition Movements.mp4",
        "timeline": "1787: The Society for Effecting the Abolition of the Slave Trade is founded in Britain.\n1807: Britain bans the slave trade; other European countries follow over the 19th century.\n1865: Slavery is officially abolished in the United States following the Civil War.\n",
        "historical_context": "Abolition movements emerged in the late 18th century, led by individuals, religious groups, and former enslaved people. Activists argued against the moral, economic, and political justifications for slavery, using pamphlets, speeches, and legal challenges to rally public support. The Haitian Revolution and the actions of freed individuals also played key roles in the movement.",
        "impact": "End of the Trade: The transatlantic slave trade was gradually abolished, with laws passed in Britain, the United States, and other countries.\nFocus on Slavery: Many nations transitioned from banning the trade to addressing the institution of slavery itself, culminating in the abolition of slavery in the Americas.\nNew Systems of Oppression: Even after abolition, systems like sharecropping, Jim Crow laws, and colonial exploitation perpetuated inequality.\nLegacy of Resistance: Abolition movements laid the foundation for modern human rights campaigns and highlighted the power of collective action.",
@@ -271,3 +278,4 @@
   }
  ]
 }
+
