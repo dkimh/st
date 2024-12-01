@@ -230,6 +230,7 @@
      "children": [
       {
        "name": "British Empire",
+       "media": "/British Empire.png",
        "timeline": "1600: The British East India Company is founded, marking the start of British colonial ventures in Asia.\n18th–19th Century: The British Empire expands to become the largest empire in history, encompassing India, North America, Africa, and Australia.\n1947–1997: Decolonization reduces British imperial holdings, culminating in the return of Hong Kong to China.",
        "historical_context": "The British Empire was built through maritime exploration, military conquest, and trade dominance. At its height, it controlled roughly a quarter of the world’s land and population. The empire played a central role in global trade networks and industrialization, but its policies often exploited and oppressed colonized peoples.",
        "impact": "Economic Dominance: The British Empire facilitated the growth of global capitalism, controlling key trade routes and resources.\nCultural Spread: English became a global language, and British institutions like parliamentary democracy were adopted worldwide.\nColonial Resistance: Colonized nations experienced widespread resistance, eventually leading to independence movements.\nLegacy: The empire's impact is seen in modern geopolitical structures, cultural exchanges, and historical grievances.",
@@ -237,6 +238,7 @@
       },
       {
        "name": "French Empire",
+       "media": "/French Empire.png",
        "timeline": "17th Century: France establishes colonies in the Americas and the Caribbean, such as Haiti.\n19th Century: The Second French Empire focuses on Africa and Southeast Asia, including Algeria and Indochina.\n20th Century: Decolonization reduces French influence, but territories like New Caledonia remain under French control.",
        "historical_context": "The French Empire pursued colonial expansion to enhance national prestige, control resources, and spread French culture and language. Its colonies in Africa, the Caribbean, and Asia were instrumental in the global slave trade, resource extraction, and the promotion of French civilization. However, colonial policies often sparked resistance and revolts.",
        "impact": "Cultural Imprint: The French language and culture remain prominent in former colonies, particularly in Africa and the Caribbean.\nEconomic Exploitation: Colonies supplied raw materials for French industries, often at the expense of local economies.\nDecolonization Struggles: Violent conflicts, such as the Algerian War of Independence (1954–1962), marked France's withdrawal from its colonies.\nNeo-Colonial Influence: France maintains economic and political ties with former colonies through policies like the CFA Franc system.",
@@ -244,6 +246,7 @@
       },
       {
        "name": "Spanish Empire",
+       "media": "/Spanish Empire.png",
        "timeline": "1492: Christopher Columbus's voyages initiate Spanish colonization in the Americas.\n16th Century: The Spanish Empire reaches its zenith, controlling vast territories in the Americas, the Philippines, and Europe.\n19th Century: Most Spanish colonies in the Americas achieve independence.",
        "historical_context": "The Spanish Empire was among the first global empires, driven by the search for gold, spreading Christianity, and military conquest. Spain’s colonization efforts focused heavily on the Americas, where it established encomienda systems, exploited Indigenous labor, and imposed Spanish culture and religion.",
        "impact": "Demographic Changes: Indigenous populations declined dramatically due to disease, forced labor, and warfare.\nCultural Legacy: Spanish is now one of the most spoken languages in the world, and Catholicism remains dominant in many former colonies.\nEconomic Systems: Silver mines in places like Potosí fueled Spain's wealth but disrupted local economies and ecosystems.\nDecolonization: The loss of American colonies in the 19th century marked the decline of Spanish global influence.",
@@ -260,6 +263,7 @@
      "children": [
       {
        "name": "Indian Independence",
+       "media": "/Indian Independence.png",
        "timeline": "1919: The Jallianwala Bagh Massacre intensifies Indian nationalist movements.\n1942: The Quit India Movement calls for immediate independence from British rule.\n1947: India gains independence, leading to the Partition and the creation of Pakistan.",
        "historical_context": "India was a cornerstone of the British Empire, but its decolonization was shaped by decades of nationalist struggle, including movements led by figures like Mahatma Gandhi and Jawaharlal Nehru. British economic exploitation, cultural imposition, and political repression fueled calls for self-rule. World War II weakened Britain, making it increasingly untenable to hold onto India. The partition of India into India and Pakistan, however, led to mass violence and displacement.",
        "impact": "Partition and Violence: The division of India and Pakistan caused communal violence, with over a million deaths and the displacement of approximately 15 million people.\nInspiration for Others: India's independence became a model for anti-colonial movements worldwide.\nEconomic Challenges: India inherited a fragile economy but later emerged as a major global player.\nCultural Renaissance: Independence spurred a resurgence of Indian art, literature, and self-identity.\n",
@@ -267,6 +271,7 @@
       },
       {
        "name": "African Independence Movements",
+       "media": "/African Independence Movements.png",
        "timeline": "1945: Pan-African Congress advocates for African independence.\n1960: The Year of Africa sees 17 nations gain independence, including Nigeria and Senegal.\n1994: South Africa’s first democratic elections mark the end of apartheid.",
        "historical_context": "African decolonization was a diverse and complex process influenced by Pan-Africanism, World War II, and Cold War dynamics. While some countries, such as Ghana under Kwame Nkrumah, achieved independence peacefully, others, like Algeria and Kenya, endured prolonged and violent struggles. Colonial powers often resisted independence, fearing the loss of economic and geopolitical advantages.",
        "impact": "National Sovereignty: Decolonization led to the creation of numerous new nations, many of which struggled with political instability.\nEconomic Dependency: Many African nations remained economically tied to former colonial powers, leading to neo-colonial dynamics.\nCultural Revitalization: Independence movements inspired efforts to revive African languages, traditions, and governance systems.\nPan-African Unity: Decolonization spurred regional solidarity, leading to the establishment of the African Union (AU).",
