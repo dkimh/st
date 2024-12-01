@@ -1,0 +1,273 @@
+{
+ "name": "Colonial Histories",
+ "timeline": "",
+ "historical_context": "",
+ "impact": "",
+ "children": [
+  {
+   "name": "Africa",
+   "media": "/africa.webp",
+   "timeline": "",
+   "historical_context": "",
+   "impact": "",
+   "children": [
+    {
+     "name": "Scramble for Africa",
+     "media": "/Scramble for Africa.mp4",
+     "timeline": "1881-1914",
+     "historical_context": "European powers formalized the colonization of Africa through events like the Berlin Conference, disregarding African sovereignty and dividing the continent into colonial territories.",
+     "impact": "Fragmentation of communities, exploitation of resources, and lasting geopolitical tensions.",
+     "children": [
+      {
+       "name": "\nThe Berlin Conference and the Partition of Africa",
+       "media": "/berlin conference.webp",
+       "timeline": "\n1884: European powers convene the Berlin Conference.\n1885: The General Act of the Berlin Conference is signed, formalizing the division of Africa.\n1914: Nearly all of Africa is under European colonial control, except Liberia and Ethiopia",
+       "historical_context": "\nThe Berlin Conference was held to avoid conflicts among European powers by establishing rules for colonization. It divided Africa into territories controlled by European nations without considering the existing ethnic or cultural boundaries. African leaders were entirely excluded from these decisions, making the partition one-sided and exploitative.",
+       "impact": "\nArtificial Borders: Arbitrary borders disrupted traditional communities, causing future political and ethnic conflicts.\nColonial Exploitation: European powers extracted natural resources and labor, often through violent means.\nLoss of Sovereignty: African societies were deprived of their autonomy and subjected to foreign systems of governance.\nLong-term Legacy: Modern African states continue to grapple with the instability caused by these colonial borders.",
+       "children": []
+      },
+      {
+       "name": "Resistance Movements and the Consequences of Colonization",
+       "media": "/african resistance.jpg",
+       "timeline": "1879: Anglo-Zulu War begins, with the Zulus achieving notable victories but ultimately being subdued by British forces.\n1905–1907: Maji Maji Rebellion in German East Africa, resulting in a brutal crackdown and over 100,000 deaths.\n1914: Widespread colonial control stifles organized resistance until later independence movements.",
+       "historical_context": "Despite European technological and military superiority, African communities actively resisted colonization through uprisings and armed conflicts. Movements like the Zulu resistance in South Africa and the Maji Maji Rebellion in German East Africa demonstrated the resilience of African societies. However, these efforts were often met with brutal suppression.",
+       "impact": "Suppression of Resistance: Rebellions were violently crushed, leading to significant loss of life and economic devastation.\nExploitation of Resources: Colonizers imposed forced labor systems and extracted resources like minerals and cash crops, benefiting European economies at the expense of African livelihoods.\nCultural Erosion: Traditional practices, languages, and governance structures were suppressed or replaced with European systems.\nModern Legacy: The long-term consequences of colonization include political instability, economic dependency, and struggles for cultural restoration in post-colonial Africa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Apartheid",
+     "media": "/Apartheid.mp4",
+     "timeline": "1948: The National Party formally establishes apartheid policies after winning elections in South Africa.\n1960: Sharpeville Massacre brings international attention to the apartheid system.\n1994: Apartheid ends with the election of Nelson Mandela as the first black president of South Africa.",
+     "historical_context": "Apartheid was a system of institutionalized racial segregation and discrimination in South Africa, designed to maintain white supremacy over the black majority. Under apartheid, laws segregated public spaces, restricted black people's access to land and education, and denied them political representation.",
+     "impact": "Political Oppression: Black South Africans were disenfranchised and excluded from political participation.\nEconomic Inequality: Black communities were forced into low-wage labor and denied access to landownership or economic advancement.\nSocial Segregation: Public spaces, schools, and transportation were segregated, leading to widespread inequality and humiliation.\nLegacy of Inequality: Post-apartheid South Africa continues to grapple with deep-rooted economic and social disparities.",
+     "children": [
+      {
+       "name": "Pass Laws",
+       "media": "/Apartheid.jpg",
+       "timeline": "1800s: Pass systems were introduced during British colonial rule in South Africa.\n1952: The Native Laws Amendment Act expanded the pass system, requiring all black South Africans to carry passbooks.\n1986: Pass laws were officially repealed following years of protest and resistance.",
+       "historical_context": "Pass laws were central to the apartheid system, designed to control the movement of black South Africans and confine them to designated \"homelands.\" Every black adult was required to carry a passbook, which detailed their personal information, employment status, and permission to be in specific areas. Failure to produce a passbook could result in arrest, detention, or deportation.\n\n",
+       "impact": "Loss of Freedom: Black South Africans were effectively treated as foreigners in their own country, requiring permission to travel, work, or reside in urban areas.\nMass Incarceration: Thousands were arrested each year for pass law violations, creating a culture of fear and repression.\nResistance Movements: The pass laws galvanized anti-apartheid activism, including widespread protests by the African National Congress (ANC) and other groups.\nLegacy: The pass system left lasting scars, symbolizing the dehumanization and systemic oppression of apartheid.\n",
+       "children": []
+      },
+      {
+       "name": "Sharpeville Massacre",
+       "media": "/Sharpeville Massacre.jpg",
+       "timeline": "March 21, 1960: Police open fire on a peaceful protest against pass laws in Sharpeville, killing 69 people and injuring 180.\n1960–1961: The massacre sparks global condemnation, leading South Africa to declare a state of emergency and ban anti-apartheid organizations.",
+       "historical_context": "The Sharpeville Massacre occurred when thousands of black South Africans gathered in Sharpeville to peacefully protest pass laws, organized by the Pan Africanist Congress (PAC). The demonstrators intended to court arrest by refusing to carry passbooks, but police responded with lethal force, shooting unarmed protesters in the back as they fled.\n\n",
+       "impact": "International Outcry: The massacre drew global attention to the brutality of apartheid, leading to widespread condemnation and calls for economic sanctions against South Africa.\nAnti-Apartheid Movements: The massacre galvanized domestic and international support for anti-apartheid organizations like the ANC and PAC, which subsequently shifted to more militant strategies.\nState Repression: In response, the South African government banned anti-apartheid groups and intensified crackdowns on resistance.\nHuman Rights Awareness: Sharpeville became a symbol of the struggle against apartheid, and March 21 is now commemorated as Human Rights Day in South Africa.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Asia",
+   "media": "/asia.jpg",
+   "timeline": "",
+   "historical_context": "",
+   "impact": "",
+   "children": [
+    {
+     "name": "British Raj in India",
+     "media": "/British Raj.mp4",
+     "timeline": "1858: The British Crown formally takes over administration of India from the British East India Company after the Sepoy Rebellion.\n1919: Amritsar Massacre sparks widespread opposition to British rule.\n1947: British rule ends with the Partition of India, leading to the creation of India and Pakistan.",
+     "historical_context": "The British Raj was the period of direct British governance over the Indian subcontinent, marked by economic exploitation, cultural imposition, and political control. While infrastructure like railways and education were introduced, they primarily served colonial interests. British policies often exacerbated famines and fostered inequality, fueling resentment and calls for independence.",
+     "impact": "Economic Drain: India's wealth and resources were funneled to Britain, leaving the subcontinent impoverished.\nPolitical Awakening: The Raj led to the rise of Indian nationalism and independence movements, including the Indian National Congress and the Muslim League.\nCultural Change: Traditional systems were disrupted, but a hybrid of Indian and Western ideas emerged, influencing education, law, and governance.\nPartition and Legacy: The end of the Raj resulted in the violent Partition, whose consequences—communal violence and border disputes—still resonate today.",
+     "children": [
+      {
+       "name": "Sepoy Rebellion (Indian Rebellion of 1857)",
+       "media": "/The Indian Rebellion of 1857.mp4",
+       "timeline": "March 1857: Sepoy soldiers in Meerut revolt against the British East India Company.\nMay 1857: The rebellion spreads to Delhi, Kanpur, Lucknow, and other major regions.\n1858: The British suppress the rebellion, formally taking control of India under the British Crown.",
+       "historical_context": "The rebellion began as a mutiny among Indian soldiers (sepoys) in the British East India Company’s army, sparked by grievances over low pay, poor treatment, and cultural insensitivity (e.g., use of animal fat on rifle cartridges offending Hindu and Muslim soldiers). It quickly escalated into a widespread uprising against British rule, fueled by resentment over land annexations, economic exploitation, and cultural dominance.",
+       "impact": "End of Company Rule: The British East India Company was dissolved, and India came under direct control of the British Crown.\nIncreased Repression: The British tightened their grip on India, introducing laws to suppress dissent and reconfigure the army to prevent future uprisings.\nNationalist Roots: The rebellion sowed the seeds of Indian nationalism, inspiring future independence leaders.\nCultural Divide: The rebellion deepened mistrust between British rulers and Indians, creating a lasting cultural and political divide.",
+       "children": []
+      },
+      {
+       "name": "Partition of India",
+       "media": "/Partition of India.png",
+       "timeline": "August 14, 1947: Pakistan is established as a separate state for Muslims.\nAugust 15, 1947: India gains independence, with Jawaharlal Nehru as its first Prime Minister.\n1947–1948: Mass migrations and communal violence occur along the newly drawn borders.\n",
+       "historical_context": "The Partition was the result of decades of tension between Hindus and Muslims, exacerbated by British divide-and-rule policies. While the Indian National Congress and the Muslim League initially sought independence from Britain together, disagreements over representation and autonomy led to demands for a separate Muslim state. British authorities, eager to exit quickly, hastily drew new borders, leading to confusion and chaos.",
+       "impact": "Mass Migration: Approximately 15 million people migrated between India and Pakistan, seeking safety based on religious identity.\nCommunal Violence: The Partition triggered riots, massacres, and atrocities, with an estimated one to two million deaths.\nGeopolitical Tensions: The division sowed the seeds of ongoing conflict between India and Pakistan, including disputes over Kashmir.\nIdentity and Memory: The trauma of Partition deeply influenced cultural identities, literature, and politics in both nations.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Opium Wars",
+     "media": "/Opium Wars.mp4",
+     "timeline": "1839–1842: The First Opium War between China and Britain ends with the Treaty of Nanking.\n1856–1860: The Second Opium War, involving Britain and France against China, ends with the Treaty of Tientsin and the Convention of Peking.",
+     "historical_context": "The Opium Wars were a series of conflicts between Qing China and Western powers, primarily Britain, over trade imbalances and China's attempts to suppress the opium trade. Britain sought to maintain its lucrative opium exports to China, which had resulted in widespread addiction. China's efforts to ban the opium trade and confiscate supplies led to military confrontations that exposed the weaknesses of the Qing Dynasty.",
+     "impact": "Treaty Ports: China was forced to open multiple ports to foreign trade, eroding its sovereignty.\nUnequal Treaties: Agreements like the Treaty of Nanking imposed harsh terms on China, including territorial concessions and indemnities.\nEconomic Dependency: The wars deepened China's economic dependency on Western powers, contributing to internal instability.\nImperial Decline: The conflicts marked the beginning of a century of humiliation for China, weakening the Qing Dynasty and spurring reform movements.",
+     "children": [
+      {
+       "name": "Economic Impact of the Opium Wars",
+       "media": "/Economic Impact of the Opium Wars.png",
+       "timeline": "Early 1800s: Britain begins exporting opium from India to China, leading to a trade imbalance.\n1839: China's destruction of opium stockpiles in Canton triggers the First Opium War.\n1842: The Treaty of Nanking forces China to pay reparations, further draining its economy.",
+       "historical_context": "The Opium Wars severely disrupted China's economy. The Qing government had tried to curtail the flow of opium to address social and economic consequences, but British military power ensured the continuation of the trade. The indemnities and trade concessions forced upon China drained its treasury and redirected wealth to foreign powers.",
+       "impact": "Silver Outflow: China's vast silver reserves were depleted due to payments for opium and war reparations, destabilizing the economy.\nIndustrial Decline: Domestic industries suffered as cheap foreign goods flooded Chinese markets, undermining local production.\nRise of Foreign Trade: Western powers gained control over key economic sectors, further entrenching economic dependency.\nSocial Strain: The opium trade and addiction devastated many communities, contributing to widespread poverty and unrest.",
+       "children": []
+      },
+      {
+       "name": "Hong Kong Cession",
+       "media": "/Hong Kong Cession.png",
+       "timeline": "1841: British forces capture Hong Kong Island during the First Opium War.\n1842: The Treaty of Nanking formally cedes Hong Kong to Britain.\n1898: The Convention for the Extension of Hong Kong Territory grants Britain a 99-year lease over the New Territories.",
+       "historical_context": "The cession of Hong Kong was one of the most significant outcomes of the First Opium War. The Treaty of Nanking transferred the island to British control, making it a strategic trade and military hub. This marked the beginning of a colonial era that would last until 1997.",
+       "impact": "Colonial Rule: Hong Kong became a British colony, serving as a critical port for trade and a base for British operations in East Asia.\nEconomic Transformation: Under British administration, Hong Kong developed into a global financial and commercial center.\nSovereignty Issues: The cession symbolized China's loss of territorial control and the imposition of foreign domination.\nModern Legacy: Hong Kong’s unique status as a global hub and its eventual return to China in 1997 have left complex political and cultural legacies.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Japanese Colonization of Korea",
+     "media": "/Japanese Colonization of Korea.mp4",
+     "timeline": "1910: The Japan-Korea Treaty of 1910 officially annexes Korea into the Japanese Empire.\n1919: The March 1st Movement marks the first major nationwide protest against Japanese rule.\n1938: Assimilation policies intensify, banning Korean language education and enforcing Japanese name adoption.\n1945: Japan surrenders in World War II, leading to Korea’s liberation.",
+     "historical_context": "The annexation of Korea by Japan marked the beginning of a 35-year-long period of colonial rule. Japan sought to integrate Korea into its empire, exploiting the land, people, and resources to support its industrial and military expansion. Policies of cultural erasure, economic exploitation, and forced labor were implemented to subjugate Koreans and suppress resistance. However, throughout this period, Koreans maintained a strong sense of national identity and fought for their independence through protests, underground movements, and international advocacy.",
+     "impact": "Cultural Suppression: The systematic effort to erase Korean culture and identity left a lasting psychological and cultural trauma that persists in Korea’s historical memory.\nEconomic Exploitation: Korea’s resources and labor were heavily exploited, leaving the country impoverished at the end of colonial rule.\nRise of Nationalism: The oppression fueled resistance movements that strengthened Korean nationalism and laid the groundwork for post-independence efforts.\nPost-Colonial Challenges: The division of Korea into North and South, unresolved historical grievances with Japan, and lingering socio-economic disparities are all legacies of this colonial period.",
+     "children": [
+      {
+       "name": "Cultural Suppression",
+       "media": "Cultural Suppression.webp",
+       "timeline": "1910: Japan formally annexes Korea and begins implementing assimilation policies.\n1938: Korean language education is banned in schools, and Koreans are forced to adopt Japanese names.\n1943: Koreans are conscripted into forced labor and military service.",
+       "historical_context": "Japan sought to erase Korean identity through policies that suppressed the Korean language, culture, and traditions while promoting Japanese nationalism. Religious practices, education, and public discourse were heavily controlled.",
+       "impact": "Loss of cultural heritage and native language proficiency.\nRise of underground resistance movements to preserve Korean identity.\nLong-term cultural revival efforts post-independence.",
+       "children": []
+      },
+      {
+       "name": "Economic Exploitation",
+       "media": "Economic Exploitation.jpg",
+       "timeline": "1910s–1920s: Japan exploits Korean agricultural land for exports to Japan.\n1930s: Industrial resources and labor are redirected to support Japan’s imperial ambitions.\n1940s: Forced labor escalates as Japan mobilizes Koreans for World War II efforts.",
+       "historical_context": "Japanese authorities confiscated land from Korean farmers, redirected agricultural outputs to Japan, and imposed heavy taxes. Industrialization primarily benefited Japanese companies, leaving Korean workers impoverished.",
+       "impact": "Economic disparity between Korean elites collaborating with Japan and the general population.\nFamine and poverty due to redirected resources.\nPost-war economic struggles and land redistribution efforts in Korea.",
+       "children": []
+      },
+      {
+       "name": "Resistance Movements",
+       "media": "Resistance Movements.png",
+       "timeline": "1919: The March 1st Movement sees nationwide protests against Japanese rule.\n1930s–1940s: Korean independence fighters, like the Korean Provisional Government and guerrilla groups, intensify resistance.\n1945: Korea gains independence following Japan’s defeat in World War II.",
+       "historical_context": "Koreans resisted colonial rule through protests, underground organizations, and armed uprisings. The March 1st Movement demonstrated widespread opposition but was met with brutal crackdowns. Guerrilla warfare and diplomacy abroad continued the fight for independence.",
+       "impact": "Development of a strong sense of nationalism.\nInternational recognition of Korean independence movements.\nLegacy of resistance leaders in modern South Korea’s national identity.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Americas",
+   "timeline": "",
+   "historical_context": "",
+   "impact": "",
+   "children": [
+    {
+     "name": "Indigenous Resistance",
+     "timeline": "1492: European colonization begins in the Americas, leading to widespread displacement of Indigenous peoples.\n1830: The Indian Removal Act forces mass relocation of Indigenous tribes in the United States.\n1890: The Wounded Knee Massacre marks the violent suppression of the Ghost Dance movement.",
+     "historical_context": "Indigenous Resistance encompasses the efforts of Native American tribes and other Indigenous groups to defend their land, culture, and sovereignty against European and American colonization. These efforts ranged from armed conflicts and uprisings to legal and spiritual resistance. Despite significant losses, Indigenous communities persisted in their fight for survival, often against overwhelming odds.\n\n",
+     "impact": "Cultural Survival: While many traditions and languages were lost, Indigenous cultures adapted and survived, preserving vital aspects of their heritage.\nLoss of Land and Lives: Forced relocations, massacres, and broken treaties led to significant population and land loss.\nOngoing Struggles: Indigenous peoples continue to fight for their rights, sovereignty, and recognition of historical injustices.\nLegacy of Resistance: These events remain symbolic of the resilience and strength of Indigenous communities.",
+     "children": [
+      {
+       "name": "Trail of Tears",
+       "timeline": "1830: President Andrew Jackson signs the Indian Removal Act, enabling the forced relocation of Indigenous tribes.\n1838–1839: The Cherokee Nation is forcibly removed from their lands in the southeastern United States to present-day Oklahoma.",
+       "historical_context": "The Trail of Tears refers to the forced relocation of approximately 60,000 Native Americans, including the Cherokee, Creek, Seminole, Chickasaw, and Choctaw tribes, under the Indian Removal Act. This relocation was part of a broader policy to clear Indigenous lands for American settlers. The journey was marked by inadequate supplies, harsh weather, and military enforcement, leading to significant suffering and loss of life.",
+       "impact": "Loss of Life: Thousands died due to exposure, disease, and starvation during the journey.\nDisplacement: Indigenous peoples lost their ancestral homelands, communities, and cultural ties to the land.\nLegal Legacy: The forced removal highlighted the failure of the U.S. government to honor treaties, fueling long-term distrust between Indigenous nations and the federal government.",
+       "children": []
+      },
+      {
+       "name": "Wounded Knee Massacre",
+       "timeline": "1890: U.S. Army troops surround a Lakota Sioux camp at Wounded Knee Creek in South Dakota.\nDecember 29, 1890: Approximately 300 Lakota men, women, and children are killed during the massacre.",
+       "historical_context": "The Wounded Knee Massacre occurred as tensions rose between the U.S. government and the Lakota Sioux over the Ghost Dance movement, a spiritual revival calling for a return of Indigenous lands and way of life. Fearing an uprising, U.S. soldiers attempted to disarm the Lakota, resulting in a violent confrontation. The massacre symbolized the culmination of U.S. efforts to suppress Indigenous resistance and culture.",
+       "impact": "End of Armed Resistance: The massacre marked the end of large-scale armed resistance by Indigenous tribes in the United States.\nCultural Suppression: The Ghost Dance movement was effectively quashed, and Indigenous practices faced further restrictions.\nSymbol of Injustice: Wounded Knee remains a powerful symbol of the suffering and resilience of Indigenous peoples.\nModern Activism: The site later became a focal point for the American Indian Movement (AIM) in the 1970s, highlighting ongoing struggles for Indigenous rights.\n",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Transatlantic Slave Trade",
+     "timeline": "1440s: Portuguese sailors begin transporting enslaved Africans to Europe.\n17th–19th centuries: The transatlantic slave trade reaches its peak, with millions of Africans forcibly taken to the Americas.\n1807: Britain passes the Abolition of the Slave Trade Act, followed by other nations over the 19th century.",
+     "historical_context": "The transatlantic slave trade was a brutal system of human trafficking that forcibly transported millions of Africans to the Americas to work on plantations, mines, and in households. It was driven by European demand for labor to support sugar, cotton, and tobacco industries. The trade devastated African communities, dehumanized individuals, and was a foundational system of economic exploitation in the Atlantic world.",
+     "impact": "Human suffering, development of racial hierarchies, and socio-economic impacts on both Africa and the Americas.",
+     "children": [
+      {
+       "name": "Middle Passage",
+       "timeline": "1500s–1800s: The Middle Passage operates as a key stage of the transatlantic slave trade.\n1700s: At its height, approximately 12 million Africans are transported across the Atlantic, with up to 20% perishing during the journey.",
+       "historical_context": "The Middle Passage refers to the horrific journey endured by enslaved Africans as they were transported across the Atlantic Ocean to the Americas. Packed into overcrowded, unsanitary ships, enslaved individuals faced extreme conditions, including starvation, disease, and abuse. Many resisted through uprisings or chose suicide over enslavement.",
+       "impact": "Human Suffering: Millions died during the Middle Passage due to inhumane treatment, with survivors enduring lifelong trauma.\nCultural Loss: Entire generations were forcibly removed from African societies, disrupting cultural and familial structures.\nEconomic Drivers: The profits from the Middle Passage fueled industries in Europe and the Americas, perpetuating the trade for centuries.\nMemory and Legacy: The Middle Passage is a symbol of the immense human cost of slavery and continues to influence discussions about historical injustice and reparations.",
+       "children": []
+      },
+      {
+       "name": "Abolition Movements",
+       "timeline": "1787: The Society for Effecting the Abolition of the Slave Trade is founded in Britain.\n1807: Britain bans the slave trade; other European countries follow over the 19th century.\n1865: Slavery is officially abolished in the United States following the Civil War.\n",
+       "historical_context": "Abolition movements emerged in the late 18th century, led by individuals, religious groups, and former enslaved people. Activists argued against the moral, economic, and political justifications for slavery, using pamphlets, speeches, and legal challenges to rally public support. The Haitian Revolution and the actions of freed individuals also played key roles in the movement.",
+       "impact": "End of the Trade: The transatlantic slave trade was gradually abolished, with laws passed in Britain, the United States, and other countries.\nFocus on Slavery: Many nations transitioned from banning the trade to addressing the institution of slavery itself, culminating in the abolition of slavery in the Americas.\nNew Systems of Oppression: Even after abolition, systems like sharecropping, Jim Crow laws, and colonial exploitation perpetuated inequality.\nLegacy of Resistance: Abolition movements laid the foundation for modern human rights campaigns and highlighted the power of collective action.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Europe",
+   "media": "Europe.png",
+   "timeline": "",
+   "historical_context": "",
+   "impact": "",
+   "children": [
+    {
+     "name": "Colonial Empires",
+     "media": "/Colonial Empires.mp4",
+     "timeline": "15th Century: Age of Exploration begins, with European powers establishing colonies in the Americas, Africa, and Asia.\n16th–19th Century: Major colonial empires expand globally, including the British, French, and Spanish empires.\n20th Century: Decolonization movements dismantle colonial empires after World War II.",
+     "historical_context": "Colonial empires were established by European nations to expand their political, economic, and cultural influence across the globe. Driven by mercantilism, the desire for resources, and religious missions, these empires imposed foreign control over vast territories. Indigenous populations often faced exploitation, cultural erasure, and displacement. These empires significantly shaped global history by influencing trade, politics, and cultural exchanges.",
+     "impact": "Globalization of Trade: Colonial empires connected continents, facilitating the exchange of goods, people, and ideas.\nEconomic Exploitation: Resources and labor from colonies were used to fuel European wealth and industrialization.\nCultural Impact: Colonial empires spread European languages, religions, and systems of governance, while suppressing indigenous cultures.\nLegacy of Inequality: Colonization created enduring economic and political inequalities in former colonies, contributing to contemporary global disparities.\n",
+     "children": [
+      {
+       "name": "British Empire",
+       "timeline": "1600: The British East India Company is founded, marking the start of British colonial ventures in Asia.\n18th–19th Century: The British Empire expands to become the largest empire in history, encompassing India, North America, Africa, and Australia.\n1947–1997: Decolonization reduces British imperial holdings, culminating in the return of Hong Kong to China.",
+       "historical_context": "The British Empire was built through maritime exploration, military conquest, and trade dominance. At its height, it controlled roughly a quarter of the world’s land and population. The empire played a central role in global trade networks and industrialization, but its policies often exploited and oppressed colonized peoples.",
+       "impact": "Economic Dominance: The British Empire facilitated the growth of global capitalism, controlling key trade routes and resources.\nCultural Spread: English became a global language, and British institutions like parliamentary democracy were adopted worldwide.\nColonial Resistance: Colonized nations experienced widespread resistance, eventually leading to independence movements.\nLegacy: The empire's impact is seen in modern geopolitical structures, cultural exchanges, and historical grievances.",
+       "children": []
+      },
+      {
+       "name": "French Empire",
+       "timeline": "17th Century: France establishes colonies in the Americas and the Caribbean, such as Haiti.\n19th Century: The Second French Empire focuses on Africa and Southeast Asia, including Algeria and Indochina.\n20th Century: Decolonization reduces French influence, but territories like New Caledonia remain under French control.",
+       "historical_context": "The French Empire pursued colonial expansion to enhance national prestige, control resources, and spread French culture and language. Its colonies in Africa, the Caribbean, and Asia were instrumental in the global slave trade, resource extraction, and the promotion of French civilization. However, colonial policies often sparked resistance and revolts.",
+       "impact": "Cultural Imprint: The French language and culture remain prominent in former colonies, particularly in Africa and the Caribbean.\nEconomic Exploitation: Colonies supplied raw materials for French industries, often at the expense of local economies.\nDecolonization Struggles: Violent conflicts, such as the Algerian War of Independence (1954–1962), marked France's withdrawal from its colonies.\nNeo-Colonial Influence: France maintains economic and political ties with former colonies through policies like the CFA Franc system.",
+       "children": []
+      },
+      {
+       "name": "Spanish Empire",
+       "timeline": "1492: Christopher Columbus's voyages initiate Spanish colonization in the Americas.\n16th Century: The Spanish Empire reaches its zenith, controlling vast territories in the Americas, the Philippines, and Europe.\n19th Century: Most Spanish colonies in the Americas achieve independence.",
+       "historical_context": "The Spanish Empire was among the first global empires, driven by the search for gold, spreading Christianity, and military conquest. Spain’s colonization efforts focused heavily on the Americas, where it established encomienda systems, exploited Indigenous labor, and imposed Spanish culture and religion.",
+       "impact": "Demographic Changes: Indigenous populations declined dramatically due to disease, forced labor, and warfare.\nCultural Legacy: Spanish is now one of the most spoken languages in the world, and Catholicism remains dominant in many former colonies.\nEconomic Systems: Silver mines in places like Potosí fueled Spain's wealth but disrupted local economies and ecosystems.\nDecolonization: The loss of American colonies in the 19th century marked the decline of Spanish global influence.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "name": "Decolonization",
+     "media": "/Decolonization.mp4",
+     "timeline": "1919: The Treaty of Versailles inspires nationalist movements in colonized countries.\n1945: End of World War II accelerates global decolonization, as European powers weaken.\n1960: The Year of Africa sees 17 African nations achieve independence.",
+     "historical_context": "Decolonization refers to the process by which colonies gained independence from colonial powers, primarily in the 20th century. It was driven by a combination of nationalist movements, economic pressures on colonial powers, and changing global attitudes toward imperialism after World War II. The process often involved negotiations, but in many cases, it also entailed violence, civil war, and long-term struggles for stability.",
+     "impact": "End of Empires: Decolonization marked the dismantling of European colonial empires and the emergence of new nation-states.\nGlobal Realignments: The Cold War influenced many decolonization struggles, as superpowers vied for influence in newly independent nations.\nEconomic Challenges: Newly independent countries often inherited weak economies designed to serve colonial interests.\nCultural Revivals: Decolonization spurred efforts to reclaim and preserve indigenous cultures and identities.",
+     "children": [
+      {
+       "name": "Indian Independence",
+       "timeline": "1919: The Jallianwala Bagh Massacre intensifies Indian nationalist movements.\n1942: The Quit India Movement calls for immediate independence from British rule.\n1947: India gains independence, leading to the Partition and the creation of Pakistan.",
+       "historical_context": "India was a cornerstone of the British Empire, but its decolonization was shaped by decades of nationalist struggle, including movements led by figures like Mahatma Gandhi and Jawaharlal Nehru. British economic exploitation, cultural imposition, and political repression fueled calls for self-rule. World War II weakened Britain, making it increasingly untenable to hold onto India. The partition of India into India and Pakistan, however, led to mass violence and displacement.",
+       "impact": "Partition and Violence: The division of India and Pakistan caused communal violence, with over a million deaths and the displacement of approximately 15 million people.\nInspiration for Others: India's independence became a model for anti-colonial movements worldwide.\nEconomic Challenges: India inherited a fragile economy but later emerged as a major global player.\nCultural Renaissance: Independence spurred a resurgence of Indian art, literature, and self-identity.\n",
+       "children": []
+      },
+      {
+       "name": "African Independence Movements",
+       "timeline": "1945: Pan-African Congress advocates for African independence.\n1960: The Year of Africa sees 17 nations gain independence, including Nigeria and Senegal.\n1994: South Africa’s first democratic elections mark the end of apartheid.",
+       "historical_context": "African decolonization was a diverse and complex process influenced by Pan-Africanism, World War II, and Cold War dynamics. While some countries, such as Ghana under Kwame Nkrumah, achieved independence peacefully, others, like Algeria and Kenya, endured prolonged and violent struggles. Colonial powers often resisted independence, fearing the loss of economic and geopolitical advantages.",
+       "impact": "National Sovereignty: Decolonization led to the creation of numerous new nations, many of which struggled with political instability.\nEconomic Dependency: Many African nations remained economically tied to former colonial powers, leading to neo-colonial dynamics.\nCultural Revitalization: Independence movements inspired efforts to revive African languages, traditions, and governance systems.\nPan-African Unity: Decolonization spurred regional solidarity, leading to the establishment of the African Union (AU).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
