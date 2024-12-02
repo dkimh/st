@@ -12,9 +12,13 @@ body{
 }
 
 h1 {
-  margin-top: 0;
-  padding: 0;
+  font-family: 'Romanesco', cursive;
+  color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  text-align: center;
+  margin-top: 20px;
 }
+
 
 .detail-container {
   width: 300px;
