@@ -129,7 +129,7 @@
      "children": [
       {
        "name": "Cultural Suppression",
-       "media": "Cultural Suppression.webp",
+       "media": "/Cultural Suppression.webp",
        "timeline": "1910: Japan formally annexes Korea and begins implementing assimilation policies.\n1938: Korean language education is banned in schools, and Koreans are forced to adopt Japanese names.\n1943: Koreans are conscripted into forced labor and military service.",
        "historical_context": "Japan sought to erase Korean identity through policies that suppressed the Korean language, culture, and traditions while promoting Japanese nationalism. Religious practices, education, and public discourse were heavily controlled.",
        "impact": "Loss of cultural heritage and native language proficiency.\nRise of underground resistance movements to preserve Korean identity.\nLong-term cultural revival efforts post-independence.",
@@ -137,7 +137,7 @@
       },
       {
        "name": "Economic Exploitation",
-       "media": "Economic Exploitation.jpg",
+       "media": "/Economic Exploitation.jpg",
        "timeline": "1910s–1920s: Japan exploits Korean agricultural land for exports to Japan.\n1930s: Industrial resources and labor are redirected to support Japan’s imperial ambitions.\n1940s: Forced labor escalates as Japan mobilizes Koreans for World War II efforts.",
        "historical_context": "Japanese authorities confiscated land from Korean farmers, redirected agricultural outputs to Japan, and imposed heavy taxes. Industrialization primarily benefited Japanese companies, leaving Korean workers impoverished.",
        "impact": "Economic disparity between Korean elites collaborating with Japan and the general population.\nFamine and poverty due to redirected resources.\nPost-war economic struggles and land redistribution efforts in Korea.",
@@ -145,7 +145,7 @@
       },
       {
        "name": "Resistance Movements",
-       "media": "Resistance Movements.png",
+       "media": "/Resistance Movements.png",
        "timeline": "1919: The March 1st Movement sees nationwide protests against Japanese rule.\n1930s–1940s: Korean independence fighters, like the Korean Provisional Government and guerrilla groups, intensify resistance.\n1945: Korea gains independence following Japan’s defeat in World War II.",
        "historical_context": "Koreans resisted colonial rule through protests, underground organizations, and armed uprisings. The March 1st Movement demonstrated widespread opposition but was met with brutal crackdowns. Guerrilla warfare and diplomacy abroad continued the fight for independence.",
        "impact": "Development of a strong sense of nationalism.\nInternational recognition of Korean independence movements.\nLegacy of resistance leaders in modern South Korea’s national identity.",
@@ -216,7 +216,7 @@
   },
   {
    "name": "Europe",
-   "media": "Europe.png",
+   "media": "/Europe.png",
    "timeline": "",
    "historical_context": "",
    "impact": "",
