@@ -95,7 +95,7 @@ const ZoomableIcicle = () => {
                     ${
                         d.data.media
                             ? d.data.media.endsWith(".mp4")
-                                ? `<video src="${mediaPath(d.data.media)}" autoplay muted loop controls style="max-width: 100%; height: auto;"></video>`
+                                ? `<video src="${mediaPath(d.data.media)}" autoplay loop controls style="max-width: 100%; height: auto;"></video>`
                                 : `<img src="${mediaPath(d.data.media)}" alt="${d.data.name}" style="max-width: 100%; height: auto;"/>`
                             : "No media available"
                     }`
